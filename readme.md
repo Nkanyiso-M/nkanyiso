@@ -13,7 +13,7 @@
 Username: admin
 Password: admin123
 
-**Sample Customer Login Details**
+**Sample Customer Login Detailz**
 
 Username: mcooper
 Password: mcooper123
